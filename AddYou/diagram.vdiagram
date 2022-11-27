@@ -1,0 +1,2065 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<Controls>
+		<Table1>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="11"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table1"/>
+				<position value="72;439"/>
+				<size value="180;166"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table1>
+		<Table10>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="2"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table10"/>
+				<position value="1257;67"/>
+				<size value="255;166"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table10>
+		<Table11>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="1"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table11"/>
+				<position value="1276;280"/>
+				<size value="181;140"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table11>
+		<Table2>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="10"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table2"/>
+				<position value="44;13"/>
+				<size value="253;166"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table2>
+		<Table3>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="9"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table3"/>
+				<position value="607;40"/>
+				<size value="141;114"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table3>
+		<Table4>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="8"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table4"/>
+				<position value="822;83"/>
+				<size value="287;478"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table4>
+		<Table5>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="7"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table5"/>
+				<position value="188;233"/>
+				<size value="180;166"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table5>
+		<Table6>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="6"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table6"/>
+				<position value="1206;500"/>
+				<size value="179;192"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table6>
+		<Table7>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="5"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table7"/>
+				<position value="564;552"/>
+				<size value="197;140"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table7>
+		<Table8>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="4"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table8"/>
+				<position value="1249;808"/>
+				<size value="197;192"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table8>
+		<Table9>
+			<Parent value="#TOP"/>
+			<Properties>
+				<^checks value="0"/>
+				<^group value="-1"/>
+				<^height value="-1"/>
+				<^indexes value="0"/>
+				<^level value="3"/>
+				<^links value="0"/>
+				<^lock value="0"/>
+				<^methods value="0"/>
+				<^minimized value="0"/>
+				<^properties value="0"/>
+				<^triggers value="0"/>
+				<^uniques value="0"/>
+				<back_color value="B4D64700"/>
+				<name value="Table9"/>
+				<position value="83;692"/>
+				<size value="185;140"/>
+				<sort_fields value="1"/>
+			</Properties>
+			<Type value="Table"/>
+		</Table9>
+		<Test>
+			<Properties>
+				<^lock value="0"/>
+				<back_color value="FFFFFF"/>
+				<font value=""/>
+				<gamma value="0"/>
+				<name value="Test"/>
+				<size value="1680;2376"/>
+				<style value="4"/>
+				<style_links value="0"/>
+				<units value="5"/>
+			</Properties>
+			<Type value="Diagram"/>
+		</Test>
+	</Controls>
+	<Editors>
+		<company>
+			<e0>
+				<data value='&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;properties&gt;
+	&lt;Page value="0"/&gt;
+	&lt;SelectionCheck value="-1"/&gt;
+	&lt;SelectionConsraintTab value="0"/&gt;
+	&lt;SelectionField value="-1"/&gt;
+	&lt;SelectionIndex value="-1"/&gt;
+	&lt;SelectionMethod value="-1"/&gt;
+	&lt;SelectionProperty value="-1"/&gt;
+	&lt;SelectionTrigger value="-1"/&gt;
+	&lt;SelectionTriggerTab value="0"/&gt;
+	&lt;SelectionUnique value="-1"/&gt;
+&lt;/properties&gt;
+
+'/>
+				<name value="AspNetRoles"/>
+				<type value="40"/>
+			</e0>
+			<e1>
+				<data value='&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;properties&gt;
+	&lt;Page value="0"/&gt;
+	&lt;SelectionCheck value="-1"/&gt;
+	&lt;SelectionConsraintTab value="0"/&gt;
+	&lt;SelectionField value="-1"/&gt;
+	&lt;SelectionIndex value="-1"/&gt;
+	&lt;SelectionMethod value="-1"/&gt;
+	&lt;SelectionProperty value="-1"/&gt;
+	&lt;SelectionTrigger value="-1"/&gt;
+	&lt;SelectionTriggerTab value="0"/&gt;
+	&lt;SelectionUnique value="-1"/&gt;
+&lt;/properties&gt;
+
+'/>
+				<name value="AspNetUsers"/>
+				<type value="40"/>
+			</e1>
+		</company>
+	</Editors>
+	<GUI>
+		<FullToolbarLeft value="1"/>
+		<FullToolbarRight value="1"/>
+		<HiddenLinks value=""/>
+		<PageEditor value="1"/>
+		<PageEditorH value="0"/>
+		<PageToolbarLeft value="0"/>
+		<PageToolbarRB value="0"/>
+		<PageToolbarRight value="0"/>
+		<ScrollX value="0"/>
+		<ScrollY value="0"/>
+		<Selection value="VGVzdA=="/>
+		<ShowAll value="1"/>
+		<ShowChanges value="1"/>
+		<ShowGL value="1"/>
+		<ShowGrid value="1"/>
+		<UseGrid value="0"/>
+	</GUI>
+	<Model>
+		<company>
+			<Links>
+				<o0>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="AspNetRoleClaims"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="RoleId"/>
+						<Name value="FK_AspNetRoleClaims_AspNetRoles_RoleId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetRoles"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_AspNetRoleClaims_AspNetRoles_RoleId"/>
+				</o0>
+				<o1>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="AspNetUserRoles"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="RoleId"/>
+						<Name value="FK_AspNetUserRoles_AspNetRoles_RoleId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetRoles"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_AspNetUserRoles_AspNetRoles_RoleId"/>
+				</o1>
+				<o10>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="AspNetUserLogins"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="UserId"/>
+						<Name value="FK_AspNetUserLogins_AspNetUsers_UserId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_AspNetUserLogins_AspNetUsers_UserId"/>
+				</o10>
+				<o11>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="AspNetUserTokens"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="UserId"/>
+						<Name value="FK_AspNetUserTokens_AspNetUsers_UserId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_AspNetUserTokens_AspNetUsers_UserId"/>
+				</o11>
+				<o2>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="AspNetUserRoles"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="UserId"/>
+						<Name value="FK_AspNetUserRoles_AspNetUsers_UserId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_AspNetUserRoles_AspNetUsers_UserId"/>
+				</o2>
+				<o3>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="AspNetUserClaims"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="UserId"/>
+						<Name value="FK_AspNetUserClaims_AspNetUsers_UserId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_AspNetUserClaims_AspNetUsers_UserId"/>
+				</o3>
+				<o4>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Companies"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="CreatorId"/>
+						<Name value="FK_Companies_AspNetUsers_CreatorId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_Companies_AspNetUsers_CreatorId"/>
+				</o4>
+				<o5>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Favorites"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="UserId"/>
+						<Name value="FK_Favorites_AspNetUsers_UserId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_Favorites_AspNetUsers_UserId"/>
+				</o5>
+				<o6>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Favorites"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="CompanyId"/>
+						<Name value="FK_Favorites_Companies_CompanyId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="Companies"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_Favorites_Companies_CompanyId"/>
+				</o6>
+				<o7>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="Products"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="CompanyId"/>
+						<Name value="FK_Products_Companies_CompanyId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="Companies"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_Products_Companies_CompanyId"/>
+				</o7>
+				<o8>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="OrderedProducts"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="UserId"/>
+						<Name value="FK_OrderedProducts_AspNetUsers_UserId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_OrderedProducts_AspNetUsers_UserId"/>
+				</o8>
+				<o9>
+					<Changes value=""/>
+					<Properties>
+						<Cardinality value="ONE to MANY"/>
+						<Child_Table value="OrderedProducts"/>
+						<Deferred value="0"/>
+						<Foreign_Key value="ProductId"/>
+						<Name value="FK_OrderedProducts_Products_ProductId"/>
+						<On_Delete value="Cascade"/>
+						<On_Update value="No Action"/>
+						<Parent_Table value="Products"/>
+						<Primary_Key value="Id"/>
+					</Properties>
+					<control value=""/>
+					<delete value="0"/>
+					<name value="FK_OrderedProducts_Products_ProductId"/>
+				</o9>
+			</Links>
+			<Tables>
+				<o0>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Name value="RoleId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="RoleId"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Name value="ClaimType"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ClaimType"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Name value="ClaimValue"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ClaimValue"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="RoleId	Asc	BINARY"/>
+								<Name value="IX_AspNetRoleClaims_RoleId"/>
+								<Query value='CREATE INDEX "IX_AspNetRoleClaims_RoleId" ON "AspNetRoleClaims" ("RoleId")'/>
+								<Table value="AspNetRoleClaims"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_AspNetRoleClaims_RoleId"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="4"/>
+						<Index_Count value="1"/>
+						<Link_Count value="1"/>
+						<Method_Count value="0"/>
+						<Name value="AspNetRoleClaims"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "AspNetRoleClaims" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_AspNetRoleClaims" PRIMARY KEY AUTOINCREMENT,
+    "RoleId" TEXT NOT NULL,
+    "ClaimType" TEXT NULL,
+    "ClaimValue" TEXT NULL,
+    CONSTRAINT "FK_AspNetRoleClaims_AspNetRoles_RoleId" FOREIGN KEY ("RoleId") REFERENCES "AspNetRoles" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table1"/>
+					<delete value="0"/>
+					<name value="AspNetRoleClaims"/>
+				</o0>
+				<o1>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Name value="NormalizedName"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="NormalizedName"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Name value="ConcurrencyStamp"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ConcurrencyStamp"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="NormalizedName	Asc	BINARY"/>
+								<Name value="RoleNameIndex"/>
+								<Query value='CREATE UNIQUE INDEX "RoleNameIndex" ON "AspNetRoles" ("NormalizedName")'/>
+								<Table value="AspNetRoles"/>
+								<Temporary value="0"/>
+								<Unique value="1"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="RoleNameIndex"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="4"/>
+						<Index_Count value="1"/>
+						<Link_Count value="2"/>
+						<Method_Count value="0"/>
+						<Name value="AspNetRoles"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "AspNetRoles" (
+    "Id" TEXT NOT NULL CONSTRAINT "PK_AspNetRoles" PRIMARY KEY,
+    "Name" TEXT NULL,
+    "NormalizedName" TEXT NULL,
+    "ConcurrencyStamp" TEXT NULL
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table2"/>
+					<delete value="0"/>
+					<name value="AspNetRoles"/>
+				</o1>
+				<o10>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="UserId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserId"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="0"/>
+								<Name value="LoginProvider"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="LoginProvider"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Name value="Value"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Value"/>
+						</o3>
+					</Fields>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="4"/>
+						<Index_Count value="0"/>
+						<Link_Count value="1"/>
+						<Method_Count value="0"/>
+						<Name value="AspNetUserTokens"/>
+						<Primary_Key value="UserId
+LoginProvider
+Name"/>
+						<Query value='CREATE TABLE "AspNetUserTokens" (
+    "UserId" TEXT NOT NULL,
+    "LoginProvider" TEXT NOT NULL,
+    "Name" TEXT NOT NULL,
+    "Value" TEXT NULL,
+    CONSTRAINT "PK_AspNetUserTokens" PRIMARY KEY ("UserId", "LoginProvider", "Name"),
+    CONSTRAINT "FK_AspNetUserTokens_AspNetUsers_UserId" FOREIGN KEY ("UserId") REFERENCES "AspNetUsers" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table11"/>
+					<delete value="0"/>
+					<name value="AspNetUserTokens"/>
+				</o10>
+				<o2>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="UserId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserId"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Name value="RoleId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="RoleId"/>
+						</o1>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="RoleId	Asc	BINARY"/>
+								<Name value="IX_AspNetUserRoles_RoleId"/>
+								<Query value='CREATE INDEX "IX_AspNetUserRoles_RoleId" ON "AspNetUserRoles" ("RoleId")'/>
+								<Table value="AspNetUserRoles"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_AspNetUserRoles_RoleId"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="2"/>
+						<Index_Count value="1"/>
+						<Link_Count value="2"/>
+						<Method_Count value="0"/>
+						<Name value="AspNetUserRoles"/>
+						<Primary_Key value="UserId
+RoleId"/>
+						<Query value='CREATE TABLE "AspNetUserRoles" (
+    "UserId" TEXT NOT NULL,
+    "RoleId" TEXT NOT NULL,
+    CONSTRAINT "PK_AspNetUserRoles" PRIMARY KEY ("UserId", "RoleId"),
+    CONSTRAINT "FK_AspNetUserRoles_AspNetRoles_RoleId" FOREIGN KEY ("RoleId") REFERENCES "AspNetRoles" ("Id") ON DELETE CASCADE,
+    CONSTRAINT "FK_AspNetUserRoles_AspNetUsers_UserId" FOREIGN KEY ("UserId") REFERENCES "AspNetUsers" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table3"/>
+					<delete value="0"/>
+					<name value="AspNetUserRoles"/>
+				</o2>
+				<o3>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="0"/>
+								<Name value="IsAdmin"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IsAdmin"/>
+						</o1>
+						<o10>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="10"/>
+								<Indexed value="0"/>
+								<Name value="PhoneNumber"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PhoneNumber"/>
+						</o10>
+						<o11>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="11"/>
+								<Indexed value="0"/>
+								<Name value="PhoneNumberConfirmed"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PhoneNumberConfirmed"/>
+						</o11>
+						<o12>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="12"/>
+								<Indexed value="0"/>
+								<Name value="TwoFactorEnabled"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="TwoFactorEnabled"/>
+						</o12>
+						<o13>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="13"/>
+								<Indexed value="0"/>
+								<Name value="LockoutEnd"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="LockoutEnd"/>
+						</o13>
+						<o14>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="14"/>
+								<Indexed value="0"/>
+								<Name value="LockoutEnabled"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="LockoutEnabled"/>
+						</o14>
+						<o15>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="15"/>
+								<Indexed value="0"/>
+								<Name value="AccessFailedCount"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="AccessFailedCount"/>
+						</o15>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Name value="UserName"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserName"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="1"/>
+								<Name value="NormalizedUserName"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="1"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="NormalizedUserName"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Name value="Email"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Email"/>
+						</o4>
+						<o5>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="5"/>
+								<Indexed value="1"/>
+								<Name value="NormalizedEmail"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="NormalizedEmail"/>
+						</o5>
+						<o6>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="6"/>
+								<Indexed value="0"/>
+								<Name value="EmailConfirmed"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="EmailConfirmed"/>
+						</o6>
+						<o7>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="7"/>
+								<Indexed value="0"/>
+								<Name value="PasswordHash"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="PasswordHash"/>
+						</o7>
+						<o8>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="8"/>
+								<Indexed value="0"/>
+								<Name value="SecurityStamp"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="SecurityStamp"/>
+						</o8>
+						<o9>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="9"/>
+								<Indexed value="0"/>
+								<Name value="ConcurrencyStamp"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ConcurrencyStamp"/>
+						</o9>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="NormalizedEmail	Asc	BINARY"/>
+								<Name value="EmailIndex"/>
+								<Query value='CREATE INDEX "EmailIndex" ON "AspNetUsers" ("NormalizedEmail")'/>
+								<Table value="AspNetUsers"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="EmailIndex"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="NormalizedUserName	Asc	BINARY"/>
+								<Name value="UserNameIndex"/>
+								<Query value='CREATE UNIQUE INDEX "UserNameIndex" ON "AspNetUsers" ("NormalizedUserName")'/>
+								<Table value="AspNetUsers"/>
+								<Temporary value="0"/>
+								<Unique value="1"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserNameIndex"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="16"/>
+						<Index_Count value="2"/>
+						<Link_Count value="7"/>
+						<Method_Count value="0"/>
+						<Name value="AspNetUsers"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "AspNetUsers" (
+    "Id" TEXT NOT NULL CONSTRAINT "PK_AspNetUsers" PRIMARY KEY,
+    "IsAdmin" INTEGER NOT NULL,
+    "UserName" TEXT NULL,
+    "NormalizedUserName" TEXT NULL,
+    "Email" TEXT NULL,
+    "NormalizedEmail" TEXT NULL,
+    "EmailConfirmed" INTEGER NOT NULL,
+    "PasswordHash" TEXT NULL,
+    "SecurityStamp" TEXT NULL,
+    "ConcurrencyStamp" TEXT NULL,
+    "PhoneNumber" TEXT NULL,
+    "PhoneNumberConfirmed" INTEGER NOT NULL,
+    "TwoFactorEnabled" INTEGER NOT NULL,
+    "LockoutEnd" TEXT NULL,
+    "LockoutEnabled" INTEGER NOT NULL,
+    "AccessFailedCount" INTEGER NOT NULL
+)'/>
+						<Record_Count value="2"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table4"/>
+					<delete value="0"/>
+					<name value="AspNetUsers"/>
+				</o3>
+				<o4>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Name value="UserId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserId"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Name value="ClaimType"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ClaimType"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Name value="ClaimValue"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ClaimValue"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="UserId	Asc	BINARY"/>
+								<Name value="IX_AspNetUserClaims_UserId"/>
+								<Query value='CREATE INDEX "IX_AspNetUserClaims_UserId" ON "AspNetUserClaims" ("UserId")'/>
+								<Table value="AspNetUserClaims"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_AspNetUserClaims_UserId"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="4"/>
+						<Index_Count value="1"/>
+						<Link_Count value="1"/>
+						<Method_Count value="0"/>
+						<Name value="AspNetUserClaims"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "AspNetUserClaims" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_AspNetUserClaims" PRIMARY KEY AUTOINCREMENT,
+    "UserId" TEXT NOT NULL,
+    "ClaimType" TEXT NULL,
+    "ClaimValue" TEXT NULL,
+    CONSTRAINT "FK_AspNetUserClaims_AspNetUsers_UserId" FOREIGN KEY ("UserId") REFERENCES "AspNetUsers" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table5"/>
+					<delete value="0"/>
+					<name value="AspNetUserClaims"/>
+				</o4>
+				<o5>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Name value="CreatorId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="CreatorId"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="0"/>
+								<Name value="ImageSource"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ImageSource"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Name value="Address"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Address"/>
+						</o4>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="CreatorId	Asc	BINARY"/>
+								<Name value="IX_Companies_CreatorId"/>
+								<Query value='CREATE INDEX "IX_Companies_CreatorId" ON "Companies" ("CreatorId")'/>
+								<Table value="Companies"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_Companies_CreatorId"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="5"/>
+						<Index_Count value="1"/>
+						<Link_Count value="3"/>
+						<Method_Count value="0"/>
+						<Name value="Companies"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "Companies" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Companies" PRIMARY KEY AUTOINCREMENT,
+    "CreatorId" TEXT NOT NULL,
+    "Name" TEXT NOT NULL,
+    "ImageSource" TEXT NOT NULL,
+    "Address" TEXT NOT NULL,
+    CONSTRAINT "FK_Companies_AspNetUsers_CreatorId" FOREIGN KEY ("CreatorId") REFERENCES "AspNetUsers" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table6"/>
+					<delete value="0"/>
+					<name value="Companies"/>
+				</o5>
+				<o6>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Name value="UserId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserId"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Name value="CompanyId"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="CompanyId"/>
+						</o2>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="CompanyId	Asc	BINARY"/>
+								<Name value="IX_Favorites_CompanyId"/>
+								<Query value='CREATE INDEX "IX_Favorites_CompanyId" ON "Favorites" ("CompanyId")'/>
+								<Table value="Favorites"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_Favorites_CompanyId"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="UserId	Asc	BINARY"/>
+								<Name value="IX_Favorites_UserId"/>
+								<Query value='CREATE INDEX "IX_Favorites_UserId" ON "Favorites" ("UserId")'/>
+								<Table value="Favorites"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_Favorites_UserId"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="3"/>
+						<Index_Count value="2"/>
+						<Link_Count value="2"/>
+						<Method_Count value="0"/>
+						<Name value="Favorites"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "Favorites" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Favorites" PRIMARY KEY AUTOINCREMENT,
+    "UserId" TEXT NOT NULL,
+    "CompanyId" INTEGER NOT NULL,
+    CONSTRAINT "FK_Favorites_AspNetUsers_UserId" FOREIGN KEY ("UserId") REFERENCES "AspNetUsers" ("Id") ON DELETE CASCADE,
+    CONSTRAINT "FK_Favorites_Companies_CompanyId" FOREIGN KEY ("CompanyId") REFERENCES "Companies" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table7"/>
+					<delete value="0"/>
+					<name value="Favorites"/>
+				</o6>
+				<o7>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="0"/>
+								<Name value="Name"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Name"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Name value="Price"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Price"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="1"/>
+								<Name value="CompanyId"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="CompanyId"/>
+						</o3>
+						<o4>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="4"/>
+								<Indexed value="0"/>
+								<Name value="SoldCounter"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="SoldCounter"/>
+						</o4>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="CompanyId	Asc	BINARY"/>
+								<Name value="IX_Products_CompanyId"/>
+								<Query value='CREATE INDEX "IX_Products_CompanyId" ON "Products" ("CompanyId")'/>
+								<Table value="Products"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_Products_CompanyId"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="5"/>
+						<Index_Count value="1"/>
+						<Link_Count value="2"/>
+						<Method_Count value="0"/>
+						<Name value="Products"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "Products" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Products" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Price" TEXT NOT NULL,
+    "CompanyId" INTEGER NOT NULL,
+    "SoldCounter" INTEGER NOT NULL,
+    CONSTRAINT "FK_Products_Companies_CompanyId" FOREIGN KEY ("CompanyId") REFERENCES "Companies" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table8"/>
+					<delete value="0"/>
+					<name value="Products"/>
+				</o7>
+				<o8>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="1"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="Id"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="Id"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="1"/>
+								<Name value="UserId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserId"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Comment value=""/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="1"/>
+								<Name value="ProductId"/>
+								<Nullable value="0"/>
+								<Type value="Integer"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ProductId"/>
+						</o2>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="ProductId	Asc	BINARY"/>
+								<Name value="IX_OrderedProducts_ProductId"/>
+								<Query value='CREATE INDEX "IX_OrderedProducts_ProductId" ON "OrderedProducts" ("ProductId")'/>
+								<Table value="OrderedProducts"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_OrderedProducts_ProductId"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="UserId	Asc	BINARY"/>
+								<Name value="IX_OrderedProducts_UserId"/>
+								<Query value='CREATE INDEX "IX_OrderedProducts_UserId" ON "OrderedProducts" ("UserId")'/>
+								<Table value="OrderedProducts"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_OrderedProducts_UserId"/>
+						</o1>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="3"/>
+						<Index_Count value="2"/>
+						<Link_Count value="2"/>
+						<Method_Count value="0"/>
+						<Name value="OrderedProducts"/>
+						<Primary_Key value="Id"/>
+						<Query value='CREATE TABLE "OrderedProducts" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_OrderedProducts" PRIMARY KEY AUTOINCREMENT,
+    "UserId" TEXT NOT NULL,
+    "ProductId" INTEGER NOT NULL,
+    CONSTRAINT "FK_OrderedProducts_AspNetUsers_UserId" FOREIGN KEY ("UserId") REFERENCES "AspNetUsers" ("Id") ON DELETE CASCADE,
+    CONSTRAINT "FK_OrderedProducts_Products_ProductId" FOREIGN KEY ("ProductId") REFERENCES "Products" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table9"/>
+					<delete value="0"/>
+					<name value="OrderedProducts"/>
+				</o8>
+				<o9>
+					<Changes value=""/>
+					<Fields>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="0"/>
+								<Indexed value="0"/>
+								<Name value="LoginProvider"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="LoginProvider"/>
+						</o0>
+						<o1>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="1"/>
+								<Indexed value="0"/>
+								<Name value="ProviderKey"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ProviderKey"/>
+						</o1>
+						<o2>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="2"/>
+								<Indexed value="0"/>
+								<Name value="ProviderDisplayName"/>
+								<Nullable value="1"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="ProviderDisplayName"/>
+						</o2>
+						<o3>
+							<Changes value=""/>
+							<Properties>
+								<Autoincrement value="0"/>
+								<Collation value="BINARY"/>
+								<Default_Value value=""/>
+								<Field_Position value="3"/>
+								<Indexed value="1"/>
+								<Name value="UserId"/>
+								<Nullable value="0"/>
+								<Type value="Text"/>
+								<Unique value="0"/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="UserId"/>
+						</o3>
+					</Fields>
+					<Indexes>
+						<o0>
+							<Changes value=""/>
+							<Properties>
+								<Fields value="UserId	Asc	BINARY"/>
+								<Name value="IX_AspNetUserLogins_UserId"/>
+								<Query value='CREATE INDEX "IX_AspNetUserLogins_UserId" ON "AspNetUserLogins" ("UserId")'/>
+								<Table value="AspNetUserLogins"/>
+								<Temporary value="0"/>
+								<Unique value="0"/>
+								<Where value=""/>
+							</Properties>
+							<control value=""/>
+							<delete value="0"/>
+							<name value="IX_AspNetUserLogins_UserId"/>
+						</o0>
+					</Indexes>
+					<Properties>
+						<Check_Count value="0"/>
+						<Comment value=""/>
+						<Field_Count value="4"/>
+						<Index_Count value="1"/>
+						<Link_Count value="1"/>
+						<Method_Count value="0"/>
+						<Name value="AspNetUserLogins"/>
+						<Primary_Key value="LoginProvider
+ProviderKey"/>
+						<Query value='CREATE TABLE "AspNetUserLogins" (
+    "LoginProvider" TEXT NOT NULL,
+    "ProviderKey" TEXT NOT NULL,
+    "ProviderDisplayName" TEXT NULL,
+    "UserId" TEXT NOT NULL,
+    CONSTRAINT "PK_AspNetUserLogins" PRIMARY KEY ("LoginProvider", "ProviderKey"),
+    CONSTRAINT "FK_AspNetUserLogins_AspNetUsers_UserId" FOREIGN KEY ("UserId") REFERENCES "AspNetUsers" ("Id") ON DELETE CASCADE
+)'/>
+						<Record_Count value="0"/>
+						<Temporary value="0"/>
+						<Trigger_Count value="0"/>
+						<Unique_Count value="0"/>
+						<Without_RowID value="0"/>
+					</Properties>
+					<control value="Table10"/>
+					<delete value="0"/>
+					<name value="AspNetUserLogins"/>
+				</o9>
+			</Tables>
+		</company>
+	</Model>
+	<Scene>
+		<HeightPX value="2376"/>
+		<MarginBottom value="0"/>
+		<MarginLeft value="0"/>
+		<MarginRight value="0"/>
+		<MarginTop value="0"/>
+		<PageHeight value="2376"/>
+		<PageWidth value="1680"/>
+		<PagesH value="1"/>
+		<PagesV value="1"/>
+		<WidthPX value="1680"/>
+	</Scene>
+	<version value="110503"/>
+</properties>
+

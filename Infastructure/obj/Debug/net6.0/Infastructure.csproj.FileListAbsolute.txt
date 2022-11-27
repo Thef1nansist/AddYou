@@ -1,0 +1,12 @@
+D:\Kursach\Infastructure\bin\Debug\net6.0\Infastructure.deps.json
+D:\Kursach\Infastructure\bin\Debug\net6.0\Infastructure.dll
+D:\Kursach\Infastructure\bin\Debug\net6.0\Infastructure.pdb
+D:\Kursach\Infastructure\obj\Debug\net6.0\Infastructure.csproj.AssemblyReference.cache
+D:\Kursach\Infastructure\obj\Debug\net6.0\Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kursach\Infastructure\obj\Debug\net6.0\Infastructure.AssemblyInfoInputs.cache
+D:\Kursach\Infastructure\obj\Debug\net6.0\Infastructure.AssemblyInfo.cs
+D:\Kursach\Infastructure\obj\Debug\net6.0\Infastructure.csproj.CoreCompileInputs.cache
+D:\Kursach\Infastructure\obj\Debug\net6.0\Infastructure.dll
+D:\Kursach\Infastructure\obj\Debug\net6.0\refint\Infastructure.dll
+D:\Kursach\Infastructure\obj\Debug\net6.0\Infastructure.pdb
+D:\Kursach\Infastructure\obj\Debug\net6.0\ref\Infastructure.dll

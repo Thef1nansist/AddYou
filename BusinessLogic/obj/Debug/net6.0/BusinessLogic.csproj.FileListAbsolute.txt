@@ -1,0 +1,15 @@
+D:\Kursach\BusinessLogic\bin\Debug\net6.0\BusinessLogic.deps.json
+D:\Kursach\BusinessLogic\bin\Debug\net6.0\BusinessLogic.dll
+D:\Kursach\BusinessLogic\bin\Debug\net6.0\BusinessLogic.pdb
+D:\Kursach\BusinessLogic\bin\Debug\net6.0\Infastructure.dll
+D:\Kursach\BusinessLogic\bin\Debug\net6.0\Infastructure.pdb
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.AssemblyInfo.cs
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.csproj.CopyComplete
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.dll
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\refint\BusinessLogic.dll
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\BusinessLogic.pdb
+D:\Kursach\BusinessLogic\obj\Debug\net6.0\ref\BusinessLogic.dll
