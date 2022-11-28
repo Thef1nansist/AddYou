@@ -11,6 +11,12 @@ namespace BusinessLogic.Models
 
         public string ImageSource { get; set; }
         public string Address { get; set; }
+
+        public string Phone { get; set; }
+
+        public string Description { get; set; }
+
+
         public IEnumerable<Product> Products { get; set; }
         internal static void CreateMaps(Profile profile)
         {

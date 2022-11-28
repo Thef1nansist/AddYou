@@ -44,6 +44,27 @@ namespace BusinessLogic.Services
             }
 
         }
+
+        public async Task<Product> AddAsyncProduct(Product item)
+        {
+            try
+            {
+                using var context = _contextFactory.CreateDbContext();
+                var map = _mapper.Map<DAM.Product>(item);
+                var entityDa = await context.Products
+                    .AddAsync(map)
+                    .ConfigureAwait(false);
+
+                await context.SaveChangesAsync().ConfigureAwait(false);
+
+                return _mapper.Map<Product>(entityDa.Entity);
+            }
+            catch (System.Exception e)
+            {
+                Debug.WriteLine(e);
+                throw;
+            }
+        }
         public async Task<List<Product>> GetProductByUserAsync(string userId)
         {
             try

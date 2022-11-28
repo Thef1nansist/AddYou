@@ -10,6 +10,8 @@ namespace BusinessLogic.Interfaces
     public interface ICompanyService
     {
         Task<Company> AddAsync(Company item);
+
+        Task<Product> AddAsyncProduct(Product product);
         Task<IEnumerable<Company>> GetAllAsync();
         Task<IEnumerable<Company>> GetAllAsync(string adminId);
         Task<IEnumerable<Company>> GetByCompanyId(int companyId);

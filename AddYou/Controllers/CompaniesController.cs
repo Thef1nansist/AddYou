@@ -36,6 +36,10 @@ namespace AddYou.Controllers
         public async Task<IActionResult> GetByCompaniesIdUser([FromQuery] string userId) =>
             Ok(await _companyService.GetByCompaniesIdUser(userId));
 
+        [HttpGet("GetByCompanyId")]
+        public async Task<IActionResult> GetByCompanyId([FromQuery] int companyId) =>
+            Ok(await _companyService.GetByCompanyId(companyId));
+
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id) =>
             Ok(await _companyService.GetByIdAsync(id));
@@ -43,6 +47,10 @@ namespace AddYou.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] Company value) =>
             Ok(await _companyService.AddAsync(value));
+
+        [HttpPost("AddProduct")]
+        public async Task<IActionResult> AddProductAsync([FromBody] Product product) =>
+            Ok(await _companyService.AddAsyncProduct(product));
 
         [HttpPut("{id}")]
         public async Task<IActionResult> Put([FromBody] Company value) =>
