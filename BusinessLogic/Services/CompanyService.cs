@@ -202,5 +202,15 @@ namespace BusinessLogic.Services
                 .ConfigureAwait(false);
             return _mapper.Map<IEnumerable<Company>>(items);
         }
+
+        public async Task<Product> GetProductById(int productId)
+        {
+            using var context = _contextFactory.CreateDbContext();
+            var item = await context.Products
+                    .FirstOrDefaultAsync(x => x.Id == productId)
+                     .ConfigureAwait(false);
+
+            return _mapper.Map<Product>(item);
+        }
     }
 }

@@ -23,5 +23,8 @@ namespace BusinessLogic.Interfaces
         Task<List<Product>> GetProductByUserAsync(string userId);
 
         Task<IEnumerable<Company>> GetByCompaniesIdUser(string userId);
+
+        Task<Product> GetProductById(int productId);
+        
     }
 }

@@ -36,6 +36,10 @@ namespace AddYou.Controllers
         public async Task<IActionResult> GetByCompaniesIdUser([FromQuery] string userId) =>
             Ok(await _companyService.GetByCompaniesIdUser(userId));
 
+        [HttpGet("GetProductById")]
+        public async Task<IActionResult> GetProductById([FromQuery] int productId) =>
+            Ok(await _companyService.GetProductById(productId));
+
         [HttpGet("GetByCompanyId")]
         public async Task<IActionResult> GetByCompanyId([FromQuery] int companyId) =>
             Ok(await _companyService.GetByCompanyId(companyId));
