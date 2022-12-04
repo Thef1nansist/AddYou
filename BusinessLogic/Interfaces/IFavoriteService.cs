@@ -7,7 +7,7 @@ namespace BusinessLogic.Interfaces
     public interface IFavoriteService
     {
         public Task<Favorite> AddAsync(Favorite item);
-        public Task<IEnumerable<Favorite>> GetAll(string userId);
+        public Task<IEnumerable<Company>> GetAll(string userId);
         Task<IEnumerable<Favorite>> GetByCompanyId(int companyId);
         Task<Favorite> GetByIdAsync(int id);
         Task<IEnumerable<Favorite>> GetByUserId(string userId);
@@ -15,5 +15,7 @@ namespace BusinessLogic.Interfaces
         Task<IEnumerable<Infastructure.Models.OrderedProduct>> GetOrderedProduct(string userId);
 
         Task<bool> GetSameFavoritesCompanies(string userId, int companyId);
+
+        Task<bool> DeleteFavorite(string userId, int companyId);
     }
 }

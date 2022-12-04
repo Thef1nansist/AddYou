@@ -17,7 +17,7 @@ namespace AddYou.Controllers
         }
 
         [HttpGet]
-        [Authorize]
+        //[Authorize]
         public async Task<IActionResult> Get([FromQuery] string userId) =>
           Ok(await _favoriteService.GetAll(userId));
 
@@ -34,19 +34,19 @@ namespace AddYou.Controllers
             var result = await _favoriteService
                 .AddAsync(value)
                 .ConfigureAwait(false);
-            return CreatedAtAction(nameof(Post), result.Id);
+            return CreatedAtAction(nameof(Post), result);
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id, [FromBody] Favorite value) =>
             Ok(await _favoriteService.UpdateAsync(value));
 
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> Delete(int id)
+        [HttpDelete("{userId}/{companyId}")]
+        public async Task<IActionResult> Delete(string userId, int companyId)
         {
             try
             {
-                return NoContent();
+               return Ok(await _favoriteService.DeleteFavorite( userId, companyId));
             }
             catch (Exception)
             {

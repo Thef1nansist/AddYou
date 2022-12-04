@@ -212,5 +212,49 @@ namespace BusinessLogic.Services
 
             return _mapper.Map<Product>(item);
         }
+
+        public async Task<List<Product>> GetSearchProducts(string productName)
+        {
+            try
+            {
+                using var context = _contextFactory.CreateDbContext();
+                var products = await context.Products
+                    .Where(x => x.Name.ToLower().Contains(productName.ToLower()) || x.Description.ToLower().Contains(productName.ToLower()))
+                    .ToListAsync()
+                    .ConfigureAwait(false);
+
+                return _mapper.Map<List<Product>>(products);
+            }
+            catch (System.Exception e)
+            {
+                Debug.WriteLine(e);
+                throw;
+            }
+        }
+
+        public async Task<bool> DeleteProduct(int id)
+        {
+            try
+            {
+                using var context = _contextFactory.CreateDbContext();
+                var product = await context.Products
+                    .FirstOrDefaultAsync(x => x.Id == id)
+                    .ConfigureAwait(false);
+                if (product == null)
+                {
+                    return false;
+                }
+
+                context.Products.Remove(product);
+                await context.SaveChangesAsync().ConfigureAwait(false);
+
+                return true;
+            }
+            catch (System.Exception e)
+            {
+                Debug.WriteLine(e);
+                throw;
+            }
+        }
     }
 }

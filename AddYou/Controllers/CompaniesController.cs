@@ -44,6 +44,10 @@ namespace AddYou.Controllers
         public async Task<IActionResult> GetByCompanyId([FromQuery] int companyId) =>
             Ok(await _companyService.GetByCompanyId(companyId));
 
+        [HttpGet("getSearchProducts")]
+        public async Task<IActionResult> GetSearchProducts([FromQuery] string productName) =>
+            Ok(await _companyService.GetSearchProducts(productName));
+
         [HttpGet("{id}")]
         public async Task<IActionResult> Get(int id) =>
             Ok(await _companyService.GetByIdAsync(id));
@@ -61,8 +65,9 @@ namespace AddYou.Controllers
             Ok(await _companyService.UpdateAsync(value));
 
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public async void Delete(int id)
         {
+            Ok(await _companyService.DeleteProduct(id));
         }
     }
 }

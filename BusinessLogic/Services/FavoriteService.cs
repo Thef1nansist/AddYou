@@ -32,6 +32,13 @@ namespace BusinessLogic.Services
             try
             {
                 using var context = _contextFactory.CreateDbContext();
+                var entities = context.Favorites
+                    .Where( x => x.UserId == item.UserId  && x.CompanyId == item.CompanyId)
+                    .ToList();
+                if (entities.Count() > 0)
+                {
+                    return null;
+                }
                 var addModel = _mapper.Map<DAM.Favorite>(item);
                 var entityDa = await context.Favorites
                     .AddAsync(addModel)
@@ -97,18 +104,25 @@ namespace BusinessLogic.Services
 
             return _mapper.Map<IEnumerable<Favorite>>(entities);
         }
-        public async Task<IEnumerable<Favorite>> GetAll(string userId)
+        public async Task<IEnumerable<Company>> GetAll(string userId)
         {
             using var context = _contextFactory.CreateDbContext();
 
             var entities = await context.Favorites
+                //.Include(x => x.Company)
                 .AsNoTracking()
-                .Include(x => x.Company)
                 .Where(x => x.UserId == userId)
+                .Select(x => x.CompanyId)
                 .ToListAsync()
                 .ConfigureAwait(false);
 
-            return _mapper.Map<IEnumerable<Favorite>>(entities);
+            var companies = await context.Companies
+                    .Where(x => entities.Contains(x.Id))
+                    .ToListAsync();
+
+
+
+            return _mapper.Map<IEnumerable<Company>>(companies);
         }
         public async Task<IEnumerable<Infastructure.Models.OrderedProduct>> GetOrderedProduct(string userId)
         {
@@ -130,6 +144,24 @@ namespace BusinessLogic.Services
                 .ToListAsync()
                 .ConfigureAwait(false);
             return items.Count > 0;
+        }
+
+        public async Task<bool> DeleteFavorite(string userId, int companyId)
+        {
+            using var context = _contextFactory.CreateDbContext();
+            var entity = await context.Favorites
+                .FirstOrDefaultAsync(x => x.UserId == userId && x.CompanyId == companyId)
+                .ConfigureAwait(false);
+
+            if (entity == null)
+                return false;
+
+             context.Favorites
+                .Remove(entity);
+
+            await context.SaveChangesAsync().ConfigureAwait(false);
+
+            return true;
         }
     }
 }
